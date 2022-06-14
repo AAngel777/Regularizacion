@@ -1,0 +1,15 @@
+Mouse
+6
+999.99
+Laptop
+15
+450.88
+Camara c920
+7
+1000.9
+Ventanas
+9
+500.8
+Keyboard
+88
+99.9
